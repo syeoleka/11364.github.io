@@ -1,1 +1,6 @@
+---
+name: 11-364 Introduction to Human Aided Deep Learning
 theme: jekyll-theme-minimal
+description: The undergraduate course in deep learning @ Carnegie Mellon
+timezone: America/Pittsburgh
+highlighter: pygments
