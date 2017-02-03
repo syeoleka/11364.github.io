@@ -1,5 +1,32 @@
+- title: "Introduction to 11-364"
+  presenter: "James K Baker"
+  description: "If you are excited about deep learning or about this
+                opportunity to be at the cutting edge, please take this course."
+
+  filename: "introduction_to_11364"
+
+- title: "Deep Neural Networks & Backpropagation"
+  presenter: "James K Baker"
+  description: " Topics include information about course, computing with a
+  network of simple units, computation of feedforward activation, minibatches,
+  the backpropagation algorithm, stochastic gradient descent, and iterative training."
+  filename: "deep_neural_networks_and_backpropagation"
+
+- title: "Improving Neural Network Training (Pt. 1)"
+  description: "Holdout and cross-validation, cross-entropy cost function, softmax,
+  log-likelihood cost function, L2 and L1 regularization, dropout, artificial expansion of
+  training data, initializing weights, heuristics to set hyperparameters, and other optimizations."
+  presenter: "James K Baker"
+  filename: "improving_neural_network_training_part_1"
+
+- title: "Improving Neural Network Training (Pt. 2)"
+  description: "Artificial expansion of training data, design decisions and hyperparameters,
+  final layer activation choice, experimentation advice, setting the learning rate, momentum, ReLU,
+  stopping early, regularization parameters, mini-batch optimization, and Nesterov accelerated momentum."
+  presenter: "James K Baker"
+  filename: "improving_neural_network_training_part_2"
+
 - title: "Momentum and ReLU"
-  date: "01/30"
+  description: "A discussion of momentum, Nesterov accelerated momentum and the Rectified Linear Unit (ReLU)."
   presenter: "Ryan Brigden"
-  pptx: "momentum_relu"
-  pdf: "momentum_relu"
+  filename: "momentum_relu"
