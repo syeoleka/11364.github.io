@@ -30,3 +30,8 @@
   description: "A discussion of momentum, Nesterov accelerated momentum and the Rectified Linear Unit (ReLU)."
   presenter: "Ryan Brigden"
   filename: "momentum_relu"
+
+- title: "Distilling Knowledge in a Neural Network"
+  description: "A discussion of a paper on Knowledge distillitation by Geoff Hinton, Google. This paper focusses on a technique to improve neural network performance at scale by distilling the knowledge in an ensemble of models into a single model"
+  presenter:"James K Baker"
+  filename: "Distilling_Knowledge_in_a_Neural_Network"
