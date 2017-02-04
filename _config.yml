@@ -1,9 +1,9 @@
 ---
 name: 11-364 Introduction to Human Aided Deep Learning
 title: 11-364 
-professor: James K. Baker
+professor: James K. Baker, Bhiksha Ramakrishnan, Rita Singh 
 theme: jekyll-theme-minimal
-description: These notes accompany 11-364, the undergraduate course in Deep Learning @ Carnegie Mellon.
+description: These notes accompany 11-364, the undergraduate course in Deep Learning @ Carnegie Mellon University.
 timezone: America/Pittsburgh
 collections:
   - presentations
