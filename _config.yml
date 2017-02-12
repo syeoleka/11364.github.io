@@ -4,6 +4,7 @@ title: 11-364
 professor: James K. Baker, Bhiksha Ramakrishnan, Rita Singh 
 theme: jekyll-theme-minimal
 description: These notes accompany 11-364, the undergraduate course in Deep Learning @ Carnegie Mellon University.
+officeHours: 10:30 am to 12:30 pm on Mondays and 3:30 pm to 5:00 pm on Tuesdays at GHC 6705
 timezone: America/Pittsburgh
 collections:
   - presentations
