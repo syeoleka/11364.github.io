@@ -35,3 +35,8 @@
   description: "A discussion of a paper on Knowledge distillitation by Geoff Hinton, Google. This paper focusses on a technique to improve neural network performance at scale by distilling the knowledge in an ensemble of models into a single model"
   presenter: "James K Baker"
   filename: "distilling_knowledge_in_a_neural_network"
+
+- title: "Binary Classification using Keras and Theano"
+  description: "A presentation about a Binary Classification Problem Sonar Return using Keras and Theano"
+  presenter: "Yuqi Liu"
+  filename: "binary_classification_keras_theano"
