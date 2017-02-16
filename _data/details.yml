@@ -40,3 +40,8 @@
   description: "A basic overview of the theory and results of Generative Adversarial Networks, or GANs. Formatted slides with GIFs at https://docs.google.com/presentation/d/1K4pkljgEq_toRIE2hZP1fxBvLxr1tXed-aN8onk_6d0/edit?usp=sharing, useful research papers at https://arxiv.org/abs/1406.2661, https://arxiv.org/abs/1412.6572, https://arxiv.org/abs/1511.06434, https://arxiv.org/abs/1602.05110, https://arxiv.org/abs/1605.05396v2, https://arxiv.org/abs/1606.03498v1, https://arxiv.org/abs/1606.03657v1, https://arxiv.org/abs/1701.00160v3"
   presenter: "Josh Zhanson"
   filename: "generative_adversarial_networks"
+
+- title: "Auto Encoders"
+  description: "A presentation on deep auto encoders"
+  presenter: "Alex Litzenberger"
+  filename: "Auto_Encoders"
