@@ -42,14 +42,12 @@
   presenter: "Josh Zhanson"
   filename: "generative_adversarial_networks"
 
-<<<<<<< HEAD
 - title: "Auto Encoders"
   description: "A presentation on deep auto encoders"
   presenter: "Alex Litzenberger"
   filename: "Auto_Encoders"
-=======
+
 - title: "Binary Classification using Keras and Theano"
   description: "A presentation about a Binary Classification Problem Sonar Return using Keras and Theano"
   presenter: "Yuqi Liu"
   filename: "binary_classification_keras_theano"
->>>>>>> origin/master
