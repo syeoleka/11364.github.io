@@ -36,12 +36,20 @@
   presenter: "James K Baker"
   filename: "distilling_knowledge_in_a_neural_network"
 
+
 - title: "Generative Adversarial Networks"
   description: "A basic overview of the theory and results of Generative Adversarial Networks, or GANs. Formatted slides with GIFs at https://docs.google.com/presentation/d/1K4pkljgEq_toRIE2hZP1fxBvLxr1tXed-aN8onk_6d0/edit?usp=sharing, useful research papers at https://arxiv.org/abs/1406.2661, https://arxiv.org/abs/1412.6572, https://arxiv.org/abs/1511.06434, https://arxiv.org/abs/1602.05110, https://arxiv.org/abs/1605.05396v2, https://arxiv.org/abs/1606.03498v1, https://arxiv.org/abs/1606.03657v1, https://arxiv.org/abs/1701.00160v3"
   presenter: "Josh Zhanson"
   filename: "generative_adversarial_networks"
 
+<<<<<<< HEAD
 - title: "Auto Encoders"
   description: "A presentation on deep auto encoders"
   presenter: "Alex Litzenberger"
   filename: "Auto_Encoders"
+=======
+- title: "Binary Classification using Keras and Theano"
+  description: "A presentation about a Binary Classification Problem Sonar Return using Keras and Theano"
+  presenter: "Yuqi Liu"
+  filename: "binary_classification_keras_theano"
+>>>>>>> origin/master
