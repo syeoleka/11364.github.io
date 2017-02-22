@@ -39,15 +39,22 @@
 
 
 - title: "Generative Adversarial Networks"
-  description: "A basic overview of the theory and results of Generative Adversarial Networks, or GANs. [Formatted slides with GIFs](https://docs.google.com/presentation/d/1K4pkljgEq_toRIE2hZP1fxBvLxr1tXed-aN8onk_6d0/edit?usp=sharing)
-  , useful research papers on [Generative Adversarial Networks in general](https://arxiv.org/abs/1406.2661),
-  [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572),
-  [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434),
-  [Generating images with recurrent adversarial networks](https://arxiv.org/abs/1602.05110),
-  [Generative Adversarial Text to Image Synthesis](https://arxiv.org/abs/1605.05396v2),
-  [Improved Techniques for Training GANs](https://arxiv.org/abs/1606.03498v1),
-  [InfoGANs](https://arxiv.org/abs/1606.03657v1),
-  [NIPS 2016 Tutorial](https://arxiv.org/abs/1701.00160v3)"
+  description: "A basic overview of the theory and results of Generative Adversarial Networks, or GANs."
+
+  links:
+    - name: "Generative Adversarial Networks in general"
+      url: "https://arxiv.org/abs/1406.2661"
+    - name: "Explaining and Harnessing Adversarial Examples"
+      url: "https://arxiv.org/abs/1412.6572"
+    - name: "Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks"
+      url: "https://arxiv.org/abs/1511.06434"
+    - name: "Generating images with recurrent adversarial networks"
+      url: "https://arxiv.org/abs/1602.05110"
+    - name: "Generative Adversarial Text to Image Synthesis"
+      url: "https://arxiv.org/abs/1605.05396v2"
+    - name: "InfoGANs"
+      url: "https://arxiv.org/abs/1606.03657v1"
+      
   presenter: "Josh Zhanson"
   filename: "generative_adversarial_networks"
 
