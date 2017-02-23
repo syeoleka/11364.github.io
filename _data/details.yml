@@ -67,7 +67,7 @@
   presenter: "Yuqi Liu"
   filename: "binary_classification_keras_theano"
 
--title: "Object Recognition in Photographs Using CNNs"
+- title: "Object Recognition in Photographs Using CNNs"
  description: "Project: experimentation with different CNN architectures and parameters to improve performance using the CIFAR-10 dataset."
  presenter: "Changning Shou & Jun Yong Go"
  filename: "object_recognition"
