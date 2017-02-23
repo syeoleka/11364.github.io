@@ -37,7 +37,6 @@
   presenter: "James K Baker"
   filename: "distilling_knowledge_in_a_neural_network"
 
-
 - title: "Generative Adversarial Networks"
   description: "A basic overview of the theory and results of Generative Adversarial Networks, or GANs."
 
@@ -67,3 +66,8 @@
   description: "A presentation about a Binary Classification Problem Sonar Return using Keras and Theano"
   presenter: "Yuqi Liu"
   filename: "binary_classification_keras_theano"
+
+-title: "Object Recognition in Photographs Using CNNs"
+ description: "Project: experimentation with different CNN architectures and parameters to improve performance using the CIFAR-10 dataset."
+ presenter: "Changning Shou & Jun Yong Go"
+ filename: "object_recognition"
