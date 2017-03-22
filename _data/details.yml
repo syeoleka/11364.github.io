@@ -76,3 +76,13 @@
   description: "An introduction discussion on reinforcement learning and its implementations within the context of deep learning"
   presenter: "Rameez Remsudeen"
   filename: "reinforcement_learning"
+
+- title: "Hyperparameter Tuning using Grid Search"
+description: "Tuning a Deep Neural Network can be challenging. There are a lot of hyper parameters to tune and to get the right set of combinations to achieve desired accuracy levels can be computationally expensive and time consuming. This presentation talks about the nuances of grid search, a way to tune hyper parameters, provides a walk through with an example and results achieved. In the end, it discusses the latest in research involving hyper parameter tuning for deep neural networks."
+presenter: "Jineet Doshi"
+filename: "grid_search_jineet_doshi"
+links:
+ - name: "Surrogate based optimization"
+   url:"http://www.jmlr.org/proceedings/papers/v28/bardenet13.pdf"
+ - name: "Gradient based Reversible Learning"
+   url:"https://arxiv.org/pdf/1502.03492.pdf"
