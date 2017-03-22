@@ -53,7 +53,7 @@
       url: "https://arxiv.org/abs/1605.05396v2"
     - name: "InfoGANs"
       url: "https://arxiv.org/abs/1606.03657v1"
-      
+
   presenter: "Josh Zhanson"
   filename: "generative_adversarial_networks"
 
@@ -71,3 +71,8 @@
   description: "Project: experimentation with different CNN architectures and parameters to improve performance using the CIFAR-10 dataset."
   presenter: "Changning Shou & Jun Yong Go"
   filename: "object_recognition"
+
+- title: "Deep Reinforcement Learning"
+  description: "An introduction discussion on reinforcement learning and its implementations within the context of deep learning"
+  presenter: "Rameez Remsudeen"
+  filename: "reinforcement_learning"
