@@ -83,6 +83,6 @@
   filename: "grid_search_jineet_doshi"
   links:
      - name: "Surrogate based optimization"
-       url:"http://www.jmlr.org/proceedings/papers/v28/bardenet13.pdf"
+       url: "http://www.jmlr.org/proceedings/papers/v28/bardenet13.pdf"
      - name: "Gradient based Reversible Learning"
-       url:"https://arxiv.org/pdf/1502.03492.pdf"
+       url: "https://arxiv.org/pdf/1502.03492.pdf"
