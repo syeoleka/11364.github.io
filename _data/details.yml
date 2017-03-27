@@ -110,6 +110,18 @@
      - name: "A Knowledge-Based Neural Conversational Model"
        url: "https://arxiv.org/abs/1702.01932"
 
+- title: "Word2Vec"
+  description: "A tool for computing distributed representations of word vectors."
+  presenter: "Sonia Yeolekar"
+  filename: "word2vec"
+  links:
+     - name: "Efficient Estimation of Word Representations in Vector Space"
+       url: "https://arxiv.org/pdf/1301.3781.pdf"
+     - name: "Distributed Representations of Words and Phrases and their Compositionality"
+       url: "https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf"
+     - name: "Linguistic Regularities in Continuous Space Word Representations"
+       url: "http://www.aclweb.org/anthology/N13-1090"
+
 - title: "LSTMs and RNNs"
   description: "Recurrent Neural Networks are a type of Seq2Seq network that takes in a sequence of inputs and outputs a sequence. The result from one cell is passed back to itself and the cell may or may not output a value. LSTMs are an improvement on this model that use information gates to regulate the flow of information and preserve a cell state."
   presenter: "Devansh Kukreja & Eric Nie"
