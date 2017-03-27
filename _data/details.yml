@@ -109,3 +109,8 @@
        url: "https://arxiv.org/abs/1506.05869"
      - name: "A Knowledge-Based Neural Conversational Model"
        url: "https://arxiv.org/abs/1702.01932"
+
+- title: "LSTMs and RNNs"
+  description: "Recurrent Neural Networks are a type of Seq2Seq network that takes in a sequence of inputs and outputs a sequence. The result from one cell is passed back to itself and the cell may or may not output a value. LSTMs are an improvement on this model that use information gates to regulate the flow of information and preserve a cell state."
+  presenter: "Devansh Kukreja & Eric Nie"
+  filename: "lstm"
